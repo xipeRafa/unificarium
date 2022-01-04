@@ -4,7 +4,7 @@
 
 
 window.onload = function(){
-      app('https:xiperafa.github.io/taxistas')
+      app('https://xiperafa.github.io/taxistas')
 }
 
 
